@@ -26,6 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenameisvir&show_icons=true&locale=en" alt="thenameisvir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenameisvir&" alt="thenameisvir" /></p>
+<p><div align="center" class="GeneratedText">Watch the snake eating my GitHub Contribution....</div></p>
+<hr>
 
 ![snake gif](https://github.com/thenameisvir/thenameisvir/blob/output/github-contribution-grid-snake.gif)
 
