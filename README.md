@@ -30,5 +30,5 @@
 <p><div align="center" class="GeneratedText">Watch the snake eating my GitHub Contribution....</div></p>
 <hr>
 
-![snake gif](https://github.com/thenameisvir/thenameisvir/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/thenameisvir/thenameisvir/blob/output/github-contribution-grid-snake.svg)
 
