@@ -1,23 +1,36 @@
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="thenameisvir" width="1000" height="150"/>
+
+
 <div align="center">
     <h1>Hi 👋, I'm Madhur Solanki.</h1>
     <h3>A passionate computer science student from India</h3>
-    <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Description of GIF">
+    <div style="display: flex; justify-content: center; align-items: center;">
+        <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Description of GIF 1 "  style="margin-right: 10px;" >
+        
+    
 </div>
 
-<p align="center" style="font-size: 18px; font-weight: bold; color: #4A90E2;">
-    🌱 <span style="font-size: 20px;">I’m currently learning <strong>Data Structures & Algos, MERN</strong></span><br>
-    📫 <span style="font-size: 20px;">How to reach me <strong>@madhursolanki00@gmail.com</strong></span><br>
-    ⚡ <span style="font-size: 20px;">Fun fact <strong>It's never too late.</strong></span>
+
+<br>
+<br>
+<p align="center" style="font-size: 22px; font-weight: bold; color: #4A90E2; line-height: 1.5;">
+<!--     🌱 <span style="font-size: 26px; font-weight: bold; color: #FF6347; text-shadow: 2px 2px #FFA07A;">Ask me about:</span>  -->
+    <span style="font-size: 26px; font-weight: bold; color: #32CD32; text-shadow: 2px 2px #98FB98;"> <h3>🌱 Ask me about : Data Structures and Algorithms</h3></span><br>
+    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="GIF" width="120">
+    <span style="font-size: 26px; font-weight: bold; color: #32CD32; text-shadow: 2px 2px #98FB98;"><h3>📫 How to reach me: @madhursolanki00@gmail.com</h3></span><br>
+    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="GIF" width="120">
+    <span style="font-size: 26px; font-weight: bold; color: #32CD32; text-shadow: 2px 2px #98FB98;"><h3>Fun fact: It's never too late.</h3></span>
 </p>
+
+
+<br>
+<br>
 
 
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=thenameisvir&label=Profile%20views&color=0e75b6&style=flat" alt="thenameisvir"/>
-</p>
-
-<p align="center">
-    <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI5NjE2MDQsIm5iZiI6MTcyMjk2MTMwNCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA2VDE2MjE0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3YTFhMDExMTEwYWZmYmU3MTUyOWM0Yjc2M2RmMWE4ZjhjY2I3OTliMWY3ZGVlNWU5MDM4MDRiNWUyZWFmMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rwt_aB8y_0FjpAQm5AbAqNGYEk2RWuPabYncg5B9fnA" alt="Description of GIF" width="170">
+    <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI5NjE2MDQsIm5iZiI6MTcyMjk2MTMwNCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA2VDE2MjE0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM3YTFhMDExMTEwYWZmYmU3MTUyOWM0Yjc2M2RmMWE4ZjhjY2I3OTliMWY3ZGVlNWU5MDM4MDRiNWUyZWFmMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rwt_aB8y_0FjpAQm5AbAqNGYEk2RWuPabYncg5B9fnA" alt="Description of GIF" width="500">
 </p>
 
 <div align="center">
@@ -44,11 +57,17 @@
     <img src="https://github.com/thenameisvir/thenameisvir/blob/85247e74949a60855be871082fb7686b37852a05/icons/wired-lineal-1213-snake.gif" alt="GIF" width="80">
     <img src="https://github.com/thenameisvir/thenameisvir/blob/85247e74949a60855be871082fb7686b37852a05/icons/wired-flat-742-code.gif" alt="GIF" width="80">
     <img src="https://github.com/thenameisvir/thenameisvir/blob/85247e74949a60855be871082fb7686b37852a05/icons/Html%205.gif" alt="GIF" width="80">
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="GIF" width="80">
+    <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" alt="GIF" width="80">
     <img src="https://github.com/thenameisvir/thenameisvir/blob/85247e74949a60855be871082fb7686b37852a05/icons/icons8-java%20(1).gif" alt="GIF" width="70">
+    
 
 
 </div>
-
+<br>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=thenameisvir&label=Profile%20views&color=0e75b6&style=flat" alt="thenameisvir"/>
+</p>
 <br>
 
 <div align="center">
