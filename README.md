@@ -16,7 +16,7 @@
 <br>
 <p align="center" style="font-size: 22px; font-weight: bold; color: #4A90E2; line-height: 1.5;">
 <!--     🌱 <span style="font-size: 26px; font-weight: bold; color: #FF6347; text-shadow: 2px 2px #FFA07A;">Ask me about:</span>  -->
-    <span style="font-size: 26px; font-weight: bold; color: #32CD32; text-shadow: 2px 2px #98FB98;"> <h3>🌱 Ask me about : Data Structures and Algorithms</h3></span><br>
+    <span style="font-size: 26px; font-weight: bold; color: #32CD32; text-shadow: 2px 2px #98FB98;"> <h3>🌱 Ask me about : Data Structures and Algorithms and MERN Stack</h3></span><br>
     <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="GIF" width="120">
     <span style="font-size: 26px; font-weight: bold; color: #32CD32; text-shadow: 2px 2px #98FB98;"><h3>📫 How to reach me: @madhursolanki00@gmail.com</h3></span><br>
     <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" alt="GIF" width="120">
